@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first-div{
+    width: 100%;
+     padding: 15px 0;
+     display: flex;
+     justify-content: space-around;
+    
+}
+.second-child{
+    display: flex;
+    gap: 10px;
+    font-size: 12px;
+   
+    
+}
+.div-icon{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+}
+.icon-size{
+    font-size: 12px;
+    color: #777777;
+}
+.icon-size:hover{
+    color:#A4C3E4 ;
+}
+.span-color{
+    color:#A4C3E4 ;
+}
+.span-number{
+    color: gray;
+   text-decoration: none;
+}
+.span-number:hover{
+    color:#A4C3E4 ;
+}
+.second-div{
+    display: flex;
+    width: 100%;
+    background-color:#F8F8F8 ;
+    padding: 30px 0;
+    justify-content: space-around;
+    ;
+}
+.three-child{
+    display: flex;
+
+    
+}
+.div-child{
+  justify-content: center;
+     gap: 60px;
+     width: 20%;
+}
+
+.div-child-img{
+    margin-left: 100px;
+    width: 20%;
+}
+.div-a:hover{
+    color:#A7C6E6;
+    transition: 0.3s;
+    
+}
+.div-a{
+    text-decoration: none;
+    color: black;
+}
+.div-different-color{
+    color:#A7C6E6
+}
+.three-div{
+    color: white;
+    font-size: 18px;
+    background-image: url(./DEA/flat-lay-health-still-life-arrangement-with-copy-space_23-2148854064\ \(1\).avif);
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.three-div-child{
+     padding: 30px; 
+
+}
+.div-health{
+     padding-top: 300px; 
+     font-size: 25px;
+     width: 39%;
+}
+.div-main-p{
+    width: 50%;
+    font-size: 18px;
+}
+.div-started-cont{
+    background-color:#3FACE4 ;
+    width: 10%;
+    
+}
